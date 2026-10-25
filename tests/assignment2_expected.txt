@@ -1,0 +1,20 @@
+>> >> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> 23
+>> >> 149
+>> >> 15
+>> >> 30 FALSE
+>> >> 220 210 200 TRUE
+>> >> 5 10
+>> >> 0
+>> >> 0
+>> >> 3 3 2
+>> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> Syntax Error!!
+>> >> -3
+>> >> Syntax Error!!
+>> >> 

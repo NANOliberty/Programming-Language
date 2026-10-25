@@ -1,0 +1,15 @@
+>> >> syntax error!!
+>> >> syntax error!!
+>> >> syntax error!!
+>> >> FALSE
+>> >> TRUE
+>> >> 25 FALSE
+>> >> 47 7
+>> >> >> syntax error!!
+>> >> syntax error!!
+>> >> syntax error!!
+>> >> 0 0 0
+>> >> syntax error!!
+>> >> 0 0
+>> >> syntax error!!
+>> 

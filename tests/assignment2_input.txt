@@ -1,0 +1,22 @@
+int variable ; variable = 365 ;
+ab = 12 ;
+float ab ;
+int k = 2 ;
+int k ; int j ; k = 3 ; j = 20 ; print k + j
+int k ; int j ; k = 3 ; j = 20 ; int a ; print k + j ;
+int k ; int j ; k = 3 ; j = 20 ; print k + j ;
+int k ; print k + 100 * 3 / 2 - 1 ;
+int x ; x = 10 + 5 - ( 2 + 3 - 5 * 10 ) ; print x ;
+int x ; x = 10 + 5 * 2 ; print x ; print > 10 x ;
+int k ; int j ; k = 3 ; j = 20 ; do { print k + ( j - 1 ) * 10 ; k = k - 1 ; } while ( > k + 10 10 ) ; print == k 0 ;
+int i ; int j ; i = 0 ; j = 0 ; do { j = j + i ; i = i + 1 ; } while ( < i * ( 5 - 4 ) 5 ) ; print i ; print j ;
+int a ; print a ; a = 34 ;
+int a ; int a ; print a ;
+int i ; int j ; do { j = 0 ; do { j = j + 1 ; } while ( < j 3 ) ; i = i + 1 ; print j ; } while ( < i 2 ) ; print i ;
+int abcdefghijk ;
+int a ; a = 12345678901 ;
+int print ; 
+int a ; a = 0 - 7 ; print a / 2 ;
+int a ; do { a = a + 1 ; } while ( < a 3 ) print a ;
+
+terminate
